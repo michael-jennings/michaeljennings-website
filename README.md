@@ -1,5 +1,5 @@
-# michaeljennings.azurewebsites.net
-The Online Portfolio of Michael Jennings
+# michaeljennings-website
+Portfolio website of Michael Jennings at [http://michaeljennings.azurewebsites.net](http://michaeljennings.azurewebsites.net)
 
 ## Setup
 - Clone or fork this repository.
